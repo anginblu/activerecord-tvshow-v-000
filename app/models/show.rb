@@ -4,4 +4,10 @@ class Show < ActiveRecord::Base
     Show.first
   end
 
+  def self.most_popular_show
+
+  end
+
+  def 
+
 end
